@@ -23,5 +23,6 @@
 ![image](https://github.com/user-attachments/assets/33141315-582b-4331-bd30-972b29424c5d)
 
 
-Entra aqui para seguir con el manual de la configuracion
+Entra aqui para seguir con el manual de la configuracion:
+
 https://github.com/hectoraglo/manual-configuracion-owncloud-recuperacion/tree/main#
